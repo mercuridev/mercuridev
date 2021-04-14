@@ -18,6 +18,7 @@
   <a href="https://www.mercuridev.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/rafael.mercuri/"><img height="32" src="https://images.vexels.com/media/users/3/153662/isolated/preview/e2c9370478afda97a2fa80b1fab515e6-iacute-cone-de-tra-ccedil-o-colorido-do-facebook-by-vexels.png"></a>&nbsp;&nbsp;
   <a href="https://www.nescafe-dolcegusto.com.br/"><img height="30" src="https://i.pinimg.com/originals/91/8f/15/918f15ac8b1522a2a738b8af4834257e.png"></a>&nbsp;&nbsp;
+  <a href="https://www.binance.com/pt-BR/register?ref=112473702"><img height="28" src="https://coinarbitragebot.com/inc/coin_logos/binance-coin.png"></a>&nbsp;&nbsp;
 </p>
 
 </br>
