@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/rafa-mercuri/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/rafinha2510"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.mercuridev.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/rafael.mercuri/"><img height="30" src="https://www.facebook.com/images/fb_icon_325x325.png"></a>&nbsp;&nbsp;
-  <a href="https://www.nescafe-dolcegusto.com.br/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/rafael.mercuri/"><img height="32" src="https://i.pinimg.com/originals/b7/c8/e1/b7c8e160dd85c3810cc56e8fb2616772.png"></a>&nbsp;&nbsp;
+  <a href="https://www.nescafe-dolcegusto.com.br/"><img height="30" src="https://i.pinimg.com/originals/91/8f/15/918f15ac8b1522a2a738b8af4834257e.png"></a>&nbsp;&nbsp;
 </p>
 
 </br>
