@@ -1,68 +1,80 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://www.mercuridev.com">Mercuri</a> 👋 ♂️</h1>
-  <p><strong>Problem Solver | Fullstack Developer</strong></p>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/hero.gif" width="100%"/>
+  <h1>Fala dev! Eu sou o <a href="https://www.mercuridev.com">Mercuri</a> 👨‍💻</h1>
+  <p><strong>Fullstack Developer | Problem Solver | Tech Enthusiast</strong></p>
+  <p>🚀 Transformando ideias em soluções desde 2011</p>
 </div>
 
-<br>
+---
 
-<!-- Redes -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafa-mercuri/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png"></a>
-  <a href="https://twitter.com/rafinha2510"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png"></a>
-  <a href="https://www.mercuridev.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png"></a>
-  <a href="https://www.facebook.com/rafael.mercuri/"><img height="30" src="https://images.vexels.com/media/users/3/153662/isolated/preview/e2c9370478afda97a2fa80b1fab515e6-iacute-cone-de-tra-ccedil-o-colorido-do-facebook-by-vexels.png"></a>
-  <a href="https://www.nescafe-dolcegusto.com.br/"><img height="30" src="https://i.pinimg.com/originals/91/8f/15/918f15ac8b1522a2a738b8af4834257e.png"></a>
-  <a href="https://www.binance.com/pt-BR/register?ref=112473702"><img height="28" src="https://coinarbitragebot.com/inc/coin_logos/binance-coin.png"></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafa-mercuri/"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.mercuritech.com.br"><img src="https://img.shields.io/badge/-MercuriTech-%23000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://instagram.com/rafamercuri"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
 ---
 
-### 🧠 Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/>
-</p>
+<div align="center">
+  <h3>🧠 <strong><i>Tech Stack</i></strong></h3>
+
+  <br>
+
+  <h4>Frontend</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  </p>
+
+  <h4>Backend & APIs</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  </p>
+
+  <h4>Mobile</h4>
+  <p>
+    <img src="https://reactnative.dev/img/header_logo.svg" height="40"/>
+  </p>
+
+  <h4>Banco de Dados</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  </p>
+
+  <h4>DevOps & Cloud</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  </p>
+</div>
 
 ---
 
-### ⚙️ Backend & API
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</p>
+<div align="center">
+  <h3>📊 Em constante movimento...</h3>
+
+  <p>Nem todo trabalho aparece aqui. Boa parte está em repositórios privados ou em organizações internas.</p>
+  <p><i>Mas o código nunca para...</i></p>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmercuri&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmercuri&layout=compact&theme=tokyonight" height="150"/>
+</div>
 
 ---
 
-### 📱 Mobile
-<p align="center">
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/>
-</p>
-
----
-
-### 💾 Banco de Dados
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
-
----
-
-### ☁️ DevOps & Cloud
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://abale.com.br/wp-content/uploads/2019/04/programar-mao-massa.gif" alt="Coding GIF" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <br><br>
+  <strong>"Foco, consistência e café são os combustíveis do meu código."</strong>
+</div>
