@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/hero.gif" width="100%"/>
   <h1>Fala dev! Eu sou o <a href="https://www.mercuridev.com">Mercuri</a> 👨‍💻</h1>
-  <p><strong>Fullstack Developer | Problem Solver | Tech Enthusiast</strong></p>
+  <p><strong>Frontend Developer | Software Engineer | Problem Solver | Tech Enthusiast | Eternal Apprentice</strong></p>
   <p>🚀 Transformando ideias em soluções desde 2011</p>
 </div>
 
@@ -28,6 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   </p>
 
   <h4>Backend & APIs</h4>
